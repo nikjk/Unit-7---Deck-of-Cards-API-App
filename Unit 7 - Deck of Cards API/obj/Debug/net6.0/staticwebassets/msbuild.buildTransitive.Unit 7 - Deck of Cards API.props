@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Unit 7 - Deck of Cards API.props" />
+</Project>

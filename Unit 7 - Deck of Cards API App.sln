@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit 7 - Deck of Cards API", "Unit 7 - Deck of Cards API\Unit 7 - Deck of Cards API.csproj", "{98C9FF85-4637-4A3B-8697-ADB08DCF525F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C9FF85-4637-4A3B-8697-ADB08DCF525F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C9FF85-4637-4A3B-8697-ADB08DCF525F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C9FF85-4637-4A3B-8697-ADB08DCF525F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C9FF85-4637-4A3B-8697-ADB08DCF525F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1484B599-0869-45F1-B776-538C47EB6818}
+	EndGlobalSection
+EndGlobal

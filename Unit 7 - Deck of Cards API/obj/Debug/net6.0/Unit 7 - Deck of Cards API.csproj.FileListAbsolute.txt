@@ -1,0 +1,35 @@
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\bin\Debug\net6.0\appsettings.json
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\bin\Debug\net6.0\Unit 7 - Deck of Cards API.staticwebassets.runtime.json
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\bin\Debug\net6.0\Unit 7 - Deck of Cards API.exe
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\bin\Debug\net6.0\Unit 7 - Deck of Cards API.deps.json
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\bin\Debug\net6.0\Unit 7 - Deck of Cards API.runtimeconfig.json
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\bin\Debug\net6.0\Unit 7 - Deck of Cards API.dll
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\bin\Debug\net6.0\Unit 7 - Deck of Cards API.pdb
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\Unit 7 - Deck of Cards API.csproj.AssemblyReference.cache
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\Unit 7 - Deck of Cards API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\Unit 7 - Deck of Cards API.AssemblyInfoInputs.cache
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\Unit 7 - Deck of Cards API.AssemblyInfo.cs
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\Unit 7 - Deck of Cards API.csproj.CoreCompileInputs.cache
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\Unit 7 - Deck of Cards API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\Unit 7 - Deck of Cards API.RazorAssemblyInfo.cache
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\Unit 7 - Deck of Cards API.RazorAssemblyInfo.cs
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\staticwebassets\msbuild.Unit 7 - Deck of Cards API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\staticwebassets\msbuild.build.Unit 7 - Deck of Cards API.props
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Unit 7 - Deck of Cards API.props
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Unit 7 - Deck of Cards API.props
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\scopedcss\bundle\Unit 7 - Deck of Cards API.styles.css
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\scopedcss\projectbundle\Unit 7 - Deck of Cards API.bundle.scp.css
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\Unit 7 - Deck of Cards API.csproj.CopyComplete
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\Unit 7 - Deck of Cards API.dll
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\refint\Unit 7 - Deck of Cards API.dll
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\Unit 7 - Deck of Cards API.pdb
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\Unit 7 - Deck of Cards API.genruntimeconfig.cache
+C:\Users\nikku\source\repos\Unit 7 - Deck of Cards API App\Unit 7 - Deck of Cards API\obj\Debug\net6.0\ref\Unit 7 - Deck of Cards API.dll
